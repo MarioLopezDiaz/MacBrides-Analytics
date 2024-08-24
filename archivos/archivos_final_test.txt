@@ -1,0 +1,6 @@
+1TRTY0ZqTk_bGqXfKqLkgCWKy6cimRS7N,final_test_AAPL.parquet,./data
+1wIjdckp1uRvuBeEDrjrSpILdQWH8nme6,final_test_F.parquet,./data
+1HXlmwCs-CR2OGZtdNbY7VTtaTrIo-Oqq,final_test_GOOG.parquet,./data
+1h9zF81pRzmdQjxDIoMK1325TqgqbHw-F,final_test_META.parquet,./data
+1Lxf1X9o3vW2L84UODmZ9WQqLyfAzsvJq,final_test_MSFT.parquet,./data
+1-nt-jTfwNa_nuYrUdvs_F-pQhCqhjERd,final_test_TSLA.parquet,./data

@@ -1,0 +1,6 @@
+1mYTae6JBlJ3K4gLPoTUhJgFpL28AJd_O,raw_AAPL.parquet,./data
+1vlkY1BR2WqYGqX_-0jR3AqKu6OtzFqHD,raw_F.parquet,./data
+14jEccbbcr3dWaJilvDapoDODprxXaMMH,raw_GOOG.parquet,./data
+1-DJ7BkmQwPANVPVIulqWLt6rKvqhiOqk,raw_META.parquet,./data
+1hkky1E_uIDAJck50kBolJDJVd-GAznFk,raw_MSFT.parquet,./data
+1GVdaQSRpP5Mf_dpT_ftXi7poIYexkYCR,raw_TSLA.parquet,./data

@@ -1,0 +1,6 @@
+1DUbmj2Hs23c2HxYO9nz40KeAs4oaa84O,raw_test_AAPL.parquet,./data
+1ZwbC9JE-lPA1xasPxWB4ktQVs1YpgNNU,raw_test_F.parquet,./data
+16XHzNH7LoPU0USALkMN_W6eESlCHa3Kq,raw_test_GOOG.parquet,./data
+1r4_u4kGS8ndzIWO_9PgVcBzdF6rS0f36,raw_test_META.parquet,./data
+1IhrBvKaBIff9LhkZTr3JnulJ02yMxKhf,raw_test_MSFT.parquet,./data
+1XFe0cbjQKm7WmvLrV3YhsDau5TJ-3Q8I,raw_test_TSLA.parquet,./data
