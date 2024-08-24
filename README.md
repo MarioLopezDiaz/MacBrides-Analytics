@@ -1,4 +1,4 @@
-# MBA-FINANCE
+# MACBRIDES ANALYTICS
 
 ### DESCRIPCIÓN DEL PROYECTO
 
@@ -50,7 +50,5 @@ El objetivo principal de este proyecto es mejorar la estrategia de inversión de
  
 ### INTEGRANTES DEL PROYECTO
 
-- [Héctor García Rincón](https://github.com/hectorgarciaa)
-- [Mario López Díaz](https://github.com/ARTEMVARTANOV)
-- [Nacho Gutiérrez Sánchez](https://github.com/nacho2606)
+- [Mario López Díaz](https://github.com/MarioLopezDiaz)
     
