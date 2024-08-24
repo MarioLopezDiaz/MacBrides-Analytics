@@ -1,0 +1,6 @@
+data/
+resultados/
+mlruns/
+.ipynb_checkpoints/
+.idea/
+__pycache__/
