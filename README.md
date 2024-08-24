@@ -45,10 +45,3 @@ El objetivo principal de este proyecto es mejorar la estrategia de inversión de
  • **`despliegue.ipynb`**: Contiene un notebook con el despliegue de los datos.
 
  • **`limpieza.py`**: Contiene el código fuente del sistema de aprendizaje automático, en este caso, los scripts de limpieza.
-
-
- 
-### INTEGRANTES DEL PROYECTO
-
-- [Mario López Díaz](https://github.com/MarioLopezDiaz)
-    
